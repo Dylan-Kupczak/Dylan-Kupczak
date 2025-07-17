@@ -11,7 +11,7 @@ Je m'appelle Dylan Kupczak, passionné par la cybersécurité et les CTF.
 ## 🔒 Compétences
 - Pentesting : Nmap, Burp Suite, FFUF
 - Automation : Python, Bash, Docker, Git
-- Cloud : AWS, Azure
+- Cloud : Azure
 
 ## 🚀 Mes projets
 - Scripts d'automatisation pour la cybersécurité
