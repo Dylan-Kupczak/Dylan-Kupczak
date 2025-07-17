@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je m'appelle Dylan Kupczak, passionné par la cybersécurité et les CTF. J'adore résoudre des challenges sur la sécurité et partager mes walkthroughs pour aider la communauté.
+Je m'appelle Dylan Kupczak, passionné par la cybersécurité et les CTF.
 
 ## 🔍 Liens
 - 🌐 Site web : https://kupczak.me/
@@ -14,8 +14,5 @@ Je m'appelle Dylan Kupczak, passionné par la cybersécurité et les CTF. J'ador
 - Cloud : AWS, Azure
 
 ## 🚀 Mes projets
-- Walkthroughs de boîtes TryHackMe (voir mon dépôt dédié ci-dessous)
 - Scripts d'automatisation pour la cybersécurité
 - Projets open-source en cours
-
-Explorez mes walkthroughs THM ci-dessous ! 🚀
